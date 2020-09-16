@@ -1,6 +1,6 @@
 //Javascript 變數的使用
 
-var weight=50.5;
+var weight=63;
 var height=160;
 var bmi = weight/((height/100)**2);
 
